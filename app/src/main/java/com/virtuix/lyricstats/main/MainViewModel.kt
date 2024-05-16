@@ -5,7 +5,6 @@ import androidx.lifecycle.ViewModel
 import com.virtuix.lyricstats.api.LyricApi
 import com.virtuix.lyricstats.api.LyricApiClient
 import com.virtuix.lyricstats.data.Grammar
-import com.virtuix.lyricstats.definitions.DefinitionsViewModel
 import kotlinx.coroutines.CoroutineDispatcher
 import kotlinx.coroutines.CoroutineScope
 import kotlinx.coroutines.Dispatchers
