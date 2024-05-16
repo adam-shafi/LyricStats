@@ -1,0 +1,22 @@
+<resources>
+    <string name="app_name">Lyric Stats</string>
+    <string name="artist">Artist</string>
+    <string name="song_title">Song Title</string>
+    <string name="look_up_and_process_lyrics">Lookup and process lyrics</string>
+    <string name="longest_lyric">Longest Lyric</string>
+    <string name="most_used_lyric">Most Used Lyric</string>
+    <string-array name="lyric_types">
+        <item>@string/longest_lyric</item>
+        <item>@string/most_used_lyric</item>
+    </string-array>
+    <string name="lyric_stats">Lyric Stats</string>
+    <string name="lyric_stats_description">Please enter an artist and one of their songs. We will then provide you the definitions for the longest and most used lyrics in the song, excluding articles, propositions, and interjections.</string>
+    <string name="lyric_definitions">Lyric Definitions</string>
+    <string name="navigate_back">Navigate Back</string>
+    <string name="synonyms">Synonyms: </string>
+    <string name="invalid_input">Invalid Input</string>
+    <string name="invalid_input_description">The artist and song combo entered are invalid. Please try again.</string>
+    <string name="ok">OK</string>
+    <string name="word_error_description">Unable to retrieve definition. Please try again later.</string>
+
+</resources>
